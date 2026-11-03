@@ -139,7 +139,7 @@ Validated against a real Nikon XT H 225 ST scan (`poly_isro_mioni1_fbp`):
   verified (different reconstruction crop, different scan, or
   something else), so the slice cannot be tied to this file set yet.
 
-64 unit tests pass in total (18 on the core math/parser, 18 on the
+128 unit tests pass in total (18 on the core math/parser, 18 on the
 `.ctinfo.xml` cross-check, 18 on `.ctprofile.xml` and the VOI
 consistency check, 10 more on the off-axis uniformity check below),
 including round-trips against all three real uploaded files and several
