@@ -237,4 +237,4 @@ SOD values recorded at different times.
   no measurable edge, so it can't be used for that check as-is.
 - Running ASTRA/TIGRE: needs a GPU machine and real projection data. Only the
   feasibility write-up and the geometry export are done.
-- The two literature items (Zemek 2020, Lifton 2013) are still to be read in full.
+
