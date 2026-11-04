@@ -31,6 +31,8 @@ data/                     Sample real scan files for testing
 analysis/                 Synthetic sensitivity sweep (Python) across the
                          scanner's full magnification range — see analysis/README.md
 ```
+#Data
+Data: the real Nikon scan files are not included in this repository. test_geometry and the CLI demo read them from data/. To run them, put your own .xtekct, _ctinfo.xml and _ctprofile.xml files in a data/ folder. The other two test programs use only simulated data and run without it.
 
 ## Windows quick start
 
